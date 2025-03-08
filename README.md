@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuvarajGML
+
 - Machine learning and Deep learning enthusiast exploring basics.
-- Specially interested in image classifcation and NLP.
+- Specially interested in image classification and NLP.
 
 
 
