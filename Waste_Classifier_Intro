@@ -1,0 +1,33 @@
+*The project was inspired from Alistair King's  Recyclable and Household Classification dataset :
+https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
+
+*The following deep learning model is able to classify the picture of any given object or material into recyclable and non-recyclable
+
+*The image can be captured using the CV module of python and then loaded locally into the file space of the google colab notebook containing the dl model
+
+*The model uses a confidence threshold which gives the following advantages :
+
+1. Reduces False Positives  
+- By setting a higher confidence threshold, the model only accepts predictions that it is highly confident about.  
+- This is useful in applications like fraud detection or medical diagnosis, where false positives can have severe consequences.  
+
+2. Improves Precision 
+- A high confidence threshold increases **precision** (i.e., fewer incorrect positive predictions).  
+- Ideal for scenarios where the cost of a false positive is high, like self-driving cars detecting pedestrians.  
+
+3. Increases Model Interpretability
+- Helps users trust the model by filtering out uncertain predictions.  
+- Example: In **spam filtering**, emails classified with low confidence can be flagged for manual review instead of being deleted.  
+
+
+4. Reduces Noise in Multi-Class Classification
+- Helps eliminate incorrect or overlapping classifications by ensuring the model is sufficiently confident before making a decision.  
+- Example: In image recognition, if a model is uncertain between "cat" and "dog," it can reject the prediction instead of making a wrong classification.  
+
+5. Efficient Post-Processing
+- In applications like **object detection**, setting a threshold removes low-confidence bounding boxes, improving the clarity of results.  
+
+6. Optimizes Resource Usage 
+- Filtering out low-confidence predictions prevents wasting computational resources on incorrect outputs.  
+
+
