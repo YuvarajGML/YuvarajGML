@@ -4,12 +4,12 @@
 🔹 Skilled in Python, NumPy, Pandas, Scikit-Learn  
 
 ## Featured Projects  
-###1> **Binary Waste Classifier**  
+### **Binary Waste Classifier**  
 🔹 **Tech Used:**  Pytorch , CNN , OpenCV , Matplotlib
 🔹 **Description**: Built a waste classifier model using CNN
 🔹 **GitHub Repo:** https://github.com/YuvarajGML/YuvarajGML/blob/main/Binary_Waste_Classifier.ipynb
 
-###2> **Image Dimension Scaling**
+### **Image Dimension Scaling**
 🔹 **Tech Used:** Pandas, Matplotlib, Seaborn   ,KMeans Clustering , Matplotlib
 🔹 **Description:** Scaled down a particular image by dimensions and analyzed the clarity of image by pixels  
 🔹 **GitHub Repo:** https://github.com/YuvarajGML/YuvarajGML/blob/main/Image_Dimension_Scaling.ipynb 
