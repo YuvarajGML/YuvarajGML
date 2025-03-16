@@ -1,7 +1,7 @@
 # Hi, I'm Yuvaraj ,
-🔹 First year undergrad student in the field of computer science and engineering
-🔹**Data Science & Machine Learning Enthusiast**
-🔹 Skilled in Python, NumPy, Pandas, Scikit-Learn  
+- First year undergrad student in the field of computer science and engineering
+- **Data Science & Machine Learning Enthusiast**
+- Skilled in Python, NumPy, Pandas, Scikit-Learn  
 
 ## Featured Projects  
 ### **Binary Waste Classifier**  
