@@ -1,5 +1,5 @@
 # Hi, I'm Yuvaraj ,
-🔹 first year undergrad student in the field of computer science and engineering
+🔹 First year undergrad student in the field of computer science and engineering
 🔹**Data Science & Machine Learning Enthusiast**
 🔹 Skilled in Python, NumPy, Pandas, Scikit-Learn  
 
