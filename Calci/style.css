@@ -1,0 +1,50 @@
+body{
+    margin : 0;
+    display: flexbox;
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+    background-color:whitesmoke; 
+
+}
+#calci{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(198, 207, 34, 0.833);
+    max-width : 550px;
+    border-radius: 10px;
+
+}
+#display{
+    width: 100%;
+    padding : 20px;
+    font-size : 5rem;
+    text-align : left;
+    border:none;
+    background-color: rgba(100, 200, 100, 0.071);
+    color : white;
+    box-sizing: border-box;
+
+}
+#keys{
+   display: grid;
+   grid-template-columns: repeat(4,1fr); /* 1 frame width 4 columns */
+   gap : 10px;
+   padding :25px;
+   }
+button{ 
+    width: 100px;
+    height:100px;
+    border:none;
+    border-radius: 50px;
+    background-color: hsla(0, 0%, 1%, 0.941);
+    color : wheat ;
+    font-size: 3rem;
+    font-weight : bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsla(0, 0%, 1%, 0.741);
+}
+button:active{
+    background-color:hsla(0, 0%, 1%, 0.900  ) ; /* Hellps in clocking effect of  a button */
+}
