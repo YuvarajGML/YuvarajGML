@@ -22,7 +22,7 @@
 ### **Cloud Cover Classification**
 - **Tech Used:** Python , Matplotlib , NumPy ,  sckit-learn , Seaborn
 - **Description:** Predicted Cloud Cover of regions using measured parameters such as rainfall, atmospheric pressure, Wind Speed etc.
-- **GitHub Repo:** 
+- **GitHub Repo:** https://github.com/YuvarajGML/YuvarajGML/blob/main/Cloud_Predictions.ipynb
 
  ## **Connect With Me**  
 🔗 LinkedIn: https://www.linkedin.com/in/yuvaraj-gopi-76193234a/
