@@ -20,5 +20,5 @@
 - **GitHub Repo:** https://github.com/YuvarajGML/YuvarajGML/blob/main/Cloud_Predictions.ipynb
 
  ## **Connect With Me**  
-🔗 LinkedIn: https://www.linkedin.com/in/yuvaraj-gopi-76193234a/
-📧 Email: yuvarajgg.2006@gmail.com
+ LinkedIn: https://www.linkedin.com/in/yuvaraj-gopi-76193234a/
+ Email: yuvarajgg.2006@gmail.com
