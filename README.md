@@ -19,6 +19,10 @@
 - **Description:** Predicted Cloud Cover of regions using measured parameters such as rainfall, atmospheric pressure, Wind Speed etc.
 - **GitHub Repo:** https://github.com/YuvarajGML/YuvarajGML/blob/main/Cloud_Predictions.ipynb
 
+### **Cloud Cover Classification**
+- **Tech Used:** Python, Pytorch , Deep Learning (U-Net Architecture), NumPy , Matplotlib , Tensorboard , Pyngrok
+- **Description:** Detected and segmented areas affected by soil erosion in satellite/aerial imagery using deep learning-based image segmentation.
+- **GitHub Repo:** 
  ## **Connect With Me**  
  LinkedIn: https://www.linkedin.com/in/yuvaraj-gopi-76193234a/
  Email: yuvarajgg.2006@gmail.com
